@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>MIssissauga</string>
+		<key>description</key>
+		<string>Welcome to MIssissauga!</string>
+		<key>latitude</key>
+		<real>43.589</real>
+		<key>longitude</key>
+		<real>-79.64409999999999</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Brampton</string>
+		<key>description</key>
+		<string>Welcome to Btampton!</string>
+		<key>latitude</key>
+		<real>43.7315</real>
+		<key>longitude</key>
+		<real>-79.7624</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Widsor</string>
+		<key>description</key>
+		<string>Welcome to Widsor!</string>
+		<key>latitude</key>
+		<real>42.3149</real>
+		<key>longitude</key>
+		<real>-83.0364</real>
+	</dict>
+</array>
+</plist>
